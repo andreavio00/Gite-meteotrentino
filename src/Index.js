@@ -7,7 +7,7 @@ const STATIONS = {
   ciampac: { code: "T0403", name: "Canazei (Ciampac)" },
   sasdelmul: { code: "T0404", name: "Marmolada (Sas del Mul)" }
 };
-
+/spazio vuoto/
 const API =
   "https://dati.meteotrentino.it/service.asmx/datiRealtimeUnaStazione";
 
